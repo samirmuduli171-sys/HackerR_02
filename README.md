@@ -1,6 +1,7 @@
 # HackerR_02
 Input Format
 <br>
+<br>
 There are three lines of input:
 <br>
 The first line contains an integer.
@@ -8,6 +9,7 @@ The first line contains an integer.
 The second line contains a double.
 <br>
 The third line contains a String.
+<br>
 <br>
 Output Format
 <br>
