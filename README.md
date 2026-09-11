@@ -11,6 +11,7 @@ The third line contains a String.
 <br>
 Output Format
 <br>
+<br>
 There are three lines of output:
 <br>
 On the first line, print String: followed by the unaltered String read from stdin.
